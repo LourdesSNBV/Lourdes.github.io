@@ -22,7 +22,7 @@
  </body>
 
 <body> 
-<h3> fun Stuff  </h3>
+<h3> Fun Stuff  </h3>
 <p> <b> Gotham needs me </b> </p>
   <img src= width="300" height="200">
  </body>
