@@ -17,19 +17,17 @@
 
 <body> 
 <h2> Cities </h2>
-<p> I'm lonely </p>
+<p> Chicago 2016 </p>
   <img src= width="300" height="200">
+<p> San Antonio 2021 </p>
+ <img src= width="300" height="200">
  </body>
 
 <body> 
 <h3> Fun Stuff  </h3>
-<p> <b> Gotham needs me </b> </p>
+<p> <b> Disney World 2024 </b> </p>
   <img src= width="300" height="200">
+<p> <b> East Coast Trip 2022 </b> </p>
  </body>
-
-
-<body>
-<img src= width="300" height="200">
-</body>
  
 </html>
