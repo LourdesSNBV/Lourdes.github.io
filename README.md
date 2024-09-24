@@ -10,9 +10,8 @@
 </style>
 
 <body> 
-<h1> <B>Nature</B> </h1>
+<h1> <B>Introduction</B> </h1>
 <p> danananananana </p>
-  <img src= width="300" height="200">
  </body>
 
 <body> 
@@ -26,6 +25,13 @@
 <body> 
 <h3> Fun Stuff  </h3>
 <p> <b> Disney World 2024 </b> </p>
+  <img src= width="300" height="200">
+<p> <b> East Coast Trip 2022 </b> </p>
+ </body>
+
+<body> 
+<h4> Fun Stuff  </h4>
+<p> <b> Nature </b> </p>
   <img src= width="300" height="200">
 <p> <b> East Coast Trip 2022 </b> </p>
  </body>
