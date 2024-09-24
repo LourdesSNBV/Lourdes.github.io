@@ -14,7 +14,7 @@
  </body>
 
 <body> 
-<h4> <b> Nature </b> </h4>
+<h3> <b> Nature </b> </h3>
 <p> <b> Sequoia 2019 </b> </p>
   <img src= width="300" height="200">
 <p> <b> Yosemite 2020 </b> </p>
