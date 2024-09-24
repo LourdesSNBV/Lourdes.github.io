@@ -3,15 +3,7 @@
 
 <body> 
 <h1> <B>Introduction</B> </h1>
-<p> danananananana </p>
- </body>
-
-<body> 
-<h2> Cities </h2>
-<p> Chicago 2016 </p>
-  <img src= width="300" height="200">
-<p> San Antonio 2021 </p>
- <img src= width="300" height="200">
+<p> Hi. This is just a compilation of pictures and descriptions of some of the places I've travelled to within the U.S. </p>
  </body>
 
 <body> 
@@ -22,10 +14,12 @@
  </body>
 
 <body> 
-<h4> Fun Stuff  </h4>
-<p> <b> Nature </b> </p>
+<h4> <b> Nature </b> </h4>
+<p> <b> Sequoia 2019 </b> </p>
   <img src= width="300" height="200">
-<p> <b> East Coast Trip 2022 </b> </p>
+<p> <b> Yosemite 2020 </b> </p>
+  <img src= width="300" height="200">
+
  </body>
  
 </html>
