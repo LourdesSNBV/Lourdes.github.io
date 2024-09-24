@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<style>
- body {background:#A4DDEE;}
-</style>
-
 <body> 
 <h1> <B>Introduction</B> </h1>
 <p> danananananana </p>
