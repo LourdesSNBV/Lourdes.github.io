@@ -20,7 +20,7 @@
        <p> <b> New York City </b> </p>
             <img src= width="300" height="200">
             
-       <p> <b> Philadelphia/Gettysburg </b> </p>
+       <p> <b> Philadelphia </b> </p>
             <img src= width="300" height="200">
        
  </body>
