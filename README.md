@@ -9,7 +9,8 @@
 <body> 
 <h3> Fun Stuff </h3>
 <p> <b> Disney World 2024 </b> </p>
-  <img src= width="300" height="200">
+ <p> Tower of Terror (super fun 10/10) </p>
+  <img src=tot.png width="300" height="500">
 <p> <b> East Coast Trip 2022 </b> </p>
        <p> <b> Washington D.C. </b> </p>
             <img src=WashingtonMonument.jpeg width="250" height="350">
