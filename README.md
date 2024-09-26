@@ -21,5 +21,10 @@
  <p> Epcot (too much walking, but a lot of food 9/10) </p>
   <img src=epcot.png width="350" height="350">
  </body>
+
+<body>
+ <h3> You can buy tickets here if you want to go </h3>
+ <a href="https://disneyworld.disney.go.com/"> Disney World Website </a>
+</body>
  
 </html>
