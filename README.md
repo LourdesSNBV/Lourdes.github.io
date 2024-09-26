@@ -13,6 +13,14 @@
   <img src=tot.png width="300" height="500">
  <p> Walt Disney World Castle (way bigger than the one here in Anaheim) </p>
   <img src=wdw.png width="350" height="500">
+ <p> Rock 'n Rollercoaster (felt like a got a concussion but 10/10) </p>
+  <img src= width="300" height="500">
+ <p> Haunted Mansion (comfy seats 8/10) </p>
+  <img src= width="300" height="500">
+ <p> Pirates of the Carribean (basically the same as the one here 9/10) </p>
+  <img src= width="300" height="500">
+ <p> Epcot (too much walking, but a lot of food 9/10) </p>
+  <img src= width="300" height="500">
  </body>
  
 </html>
