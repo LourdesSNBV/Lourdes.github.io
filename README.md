@@ -15,7 +15,7 @@
   <img src=wdw.png width="350" height="500">
 <p> <b> East Coast Trip 2022 </b> </p>
        <p> <b> Washington D.C. </b> </p>
-            <img src=WashingtonMonument.jpeg width="250" height="350">
+            <img src=wm.jpeg width="250" height="350">
        <p> <b> Monticello/Mount Vernon </b> </p>
             <img src=Monticello.jpeg width="300" height="200"
        <p> <b> New York City </b> </p>
