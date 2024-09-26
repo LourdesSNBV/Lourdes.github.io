@@ -15,7 +15,7 @@
        <p> <b> Washington D.C. </b> </p>
             <img src=WashingtonMonument.jpeg width="250" height="350">
        <p> <b> Monticello/Mount Vernon </b> </p>
-            <img src= width="300" height="200"
+            <img src=Monticello.png width="300" height="200"
        <p> <b> New York City </b> </p>
             <img src= width="300" height="200">
        <p> <b> Philadelphia </b> </p>
