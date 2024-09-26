@@ -2,8 +2,8 @@
 <html>
 
 <body> 
-<h1> <B> My (Domestic) Travel Gallery </B> </h1>
-<p> Hi. This is just a compilation of pictures and descriptions of some of the places I've travelled to within the U.S. </p>
+<h1> <B> Summer Vacation </B> </h1>
+<p> Hi. This is just a compilation of pictures of my summer trip in the Walt Disney World Parks </p>
  </body>
 
 <body> 
@@ -13,15 +13,6 @@
   <img src=tot.png width="300" height="500">
  <p> Walt Disney World Castle (way bigger than the one here in Anaheim) </p>
   <img src=wdw.png width="350" height="500">
-<p> <b> East Coast Trip 2022 </b> </p>
-       <p> <b> Washington D.C. </b> </p>
-            <img src=wm.jpeg width="250" height="350">
-       <p> <b> Monticello/Mount Vernon </b> </p>
-            <img src=Monticello.jpeg width="300" height="200"
-       <p> <b> New York City </b> </p>
-            <img src= width="300" height="200">
-       <p> <b> Philadelphia </b> </p>
-            <img src= width="300" height="250">
  </body>
  
 </html>
