@@ -18,7 +18,7 @@
        <p> <b> New York City </b> </p>
             <img src= width="300" height="200">
        <p> <b> Philadelphia </b> </p>
-            <img src=libertybell.jpg width="300" height="250">
+            <img src=IndependenceHall.png width="300" height="250">
  </body>
  
 </html>
