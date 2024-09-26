@@ -11,7 +11,7 @@
 <p> <b> Disney World 2024 </b> </p>
  <p> Tower of Terror (super fun 10/10) </p>
   <img src=tot.png width="300" height="500">
- <p> Walt Disney World Castel (way bigger than the one here in Anaheim) </p>
+ <p> Walt Disney World Castle (way bigger than the one here in Anaheim) </p>
   <img src=wdw.png width="350" height="500">
 <p> <b> East Coast Trip 2022 </b> </p>
        <p> <b> Washington D.C. </b> </p>
